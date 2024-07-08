@@ -35,7 +35,7 @@ body {
 
 .image-container {
     flex: 1;
-    background: url('vis (1).jpg') no-repeat center center;
+    background: url('vis(1).jpg') no-repeat center center;
     background-size: cover;
 }
 
